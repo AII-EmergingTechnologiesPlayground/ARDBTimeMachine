@@ -1,0 +1,61 @@
+[
+    {
+        "game": {
+            "gameID": "1",
+            "questions": [
+                {
+                    "question": "Hoeveel archiven heeft het erfgoedcentrum van den bosch?",
+                    "answers": [
+                        "900",
+                        "1000",
+                        "950",
+                        "50"
+                    ],
+                    "correctAnswer": 0,
+                    "timer": 10,
+                    "description": "Paris is the capital of France",
+                    "link": "https://www.erfgoedshertogenbosch.nl/onderzoek/archiefonderzoek"
+                },
+                {
+                    "question": "Hoe heet de Generaal die den bosch bevrijdde in de tweede wereldoorlog?",
+                    "answers": [
+                        "Hendrik Valk",
+                        "Robert Valk",
+                        "Robert Ross",
+                        "Gerald Ross"
+                    ],
+                    "correctAnswer": 2,
+                    "timer": 10,
+                    "description": "Berlin is the capital of Germany",
+                    "link": "https://en.wikipedia.org/wiki/Berlin"
+                },
+                {
+                    "question": "Hoeveel objecten heeft het erfgoedcentrum van den bosch?",
+                    "answers": [
+                        "10",
+                        "12",
+                        "14",
+                        "15"
+                    ],
+                    "correctAnswer": 3,
+                    "timer": 10,
+                    "description": "Rome is the capital of Italy",
+                    "link": "https://en.wikipedia.org/wiki/Rome"
+                },
+                {
+                    "question": "Wanneer start de history van den bosch?",
+                    "answers": [
+                        "1180",
+                        "1185",
+                        "1182",
+                        "1200"
+                    ],
+                    "correctAnswer": 1,
+                    "timer": 10,
+                    "description": "London is the capital of England",
+                    "link": "https://en.wikipedia.org/wiki/London"
+                }
+            ]
+        }
+    }
+]
