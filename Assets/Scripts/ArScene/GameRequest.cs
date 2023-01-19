@@ -13,7 +13,7 @@ using static VPSManagerWOA;
 
 public class GameRequest : MonoBehaviour
 {
-    private string url = "https://jeroene2000.github.io/DBTimeMachine.json";
+    private string url = "https://yourreponame.github.io/DBTimeMachine.json";
     public TMP_Text question;
     public Text answer;
     public Button findButton;
